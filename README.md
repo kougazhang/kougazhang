@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Connect with Me 🤝🏻
+
+[![知乎]()](https://www.zhihu.com/people/kougazhang)
+
+![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)
