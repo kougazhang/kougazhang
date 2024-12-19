@@ -2,15 +2,15 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=kougazhang&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true" />
 
-- :orange_book: 熟悉 Golang & Python
-- :hammer: 涉足 Web 开发、大数据、Devops 等领域
-- :ram: 定居杭州
-- :pen: 喜欢读书、写作、分享
+- :orange_book: I am good at Golang & Python
+- :hammer: Recently, I foucs on Web development, Big data and Devops.
+- :ram: I am hunting a job in Germany.
+- :pen: I love reading and share new tech knowledge.
 
 
 ---
 
-### 技术栈
+### Tech Stack
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="343" height="220" title="Do what you like, and do it best!"> 
 
